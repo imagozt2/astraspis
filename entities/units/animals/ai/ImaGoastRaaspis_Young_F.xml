@@ -1,0 +1,36 @@
+<BFTypedBinder binderType="ImaGoastRaaspis_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Carcharhiniformes>
+                     <Carcharhinidae>
+                        <ImaGoastRaaspis>
+                           <ImaGoastRaaspis_Young>
+                              <ImaGoastRaaspis_Young_F/>
+                           </ImaGoastRaaspis_Young>
+                        </ImaGoastRaaspis>
+                     </Carcharhinidae>
+                  </Carcharhiniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\ImaGoastRaaspis\ImaGoastRaaspis_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="ImaGoastRaaspis_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+   <binder/>
+</BFTypedBinder>

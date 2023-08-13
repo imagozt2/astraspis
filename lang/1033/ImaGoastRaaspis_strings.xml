@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <ImaGoastRaaspis>Astraspis</ImaGoastRaaspis>
+      <ImaGoastRaaspis_stt>Astraspis</ImaGoastRaaspis_stt>
+      <ImaGoastRaaspis_lower>The Astraspis</ImaGoastRaaspis_lower>
+      <ImaGoastRaaspis_ltt>
+         <color r="255" g="248" b="178">
+            <b>Astraspis</b>
+         </color>
+         <br/>
+         Click to adopt a Astraspis, an arcaic fish.
+      </ImaGoastRaaspis_ltt>
+      <!--gift names-->
+      <ImaGoastRaaspis_Gift>Astraspis rucksack</ImaGoastRaaspis_Gift>
+      <ImaGoastRaaspis_Gift_stt>Astraspis rucksack</ImaGoastRaaspis_Gift_stt>
+      <ImaGoastRaaspis_Gift_lower>The Astraspis rucksack</ImaGoastRaaspis_Gift_lower>
+      <ImaGoastRaaspis_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Astraspis rucksack</b>
+         </color>
+         <br/>The people buy this gift when it sees the Astraspis.
+      </ImaGoastRaaspis_Gift_ltt>
+</entityname>
+<zoopedia_imagoastraaspis>
+ <entry>Astraspis desiderata</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ImaGoastRaaspis/ImaGoastRaaspis_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coastal<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Sea<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>(Pteraspida)</i><br/>Order: Astraspidiformes <br/>Family: Astraspidae <br/>Generate: <i>Astraspis</i><br/>Specis: <i>A. desiderata</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts of Astraspis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">He is a personage of the documentary of Walking with monsters, by Nigel Marven.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Astraspis was also featured in Animal Armageddon.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Astraspis desiderata is the only specie on the gender Astraspis.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unblock the Astraspis  you need 1 star of reputation in your zoo. 
+   </color>
+   <p/>Astraspis ('star shield') is an extinct genus of primitive jawless fish from the Ordovician of Central North America and Bolivia (Gagnier, 1993) . It is related to other Ordovician fishes, such as the South American Sacabambaspis, and the Australian Arandaspis. Astraspids are hypothesized to have been about 200mm in length. They are supposed to have had a mobile tail covered with small protective plates (<1mm) and a head region covered with much larger plates (>>2mm). The specimen from North America (described by Sansom et al., 1997) is to have had relatively large, lateral eyes and a series of eight gill openings on each side. The specimen was generally oval in cross-section. The protective bony plates covering the animal were composed of aspidin (chemically similar to modern shark's teeth), covered by tubercles composed of dentine. It is from these tubercles (which are generally star-shaped) that the name 'Astraspis' (literally "star-shield") is derived. It has a small cameo in the 2003 BBC series Sea Monsters: A Walking with Dinosaurs Trilogy, a spin-off to the famed Walking with Dinosaurs, where Nigel Marven uses a dead Astraspis as bait to attract a sea scorpion. The creature is identified in the series' novelisation. It is also said to be an armour-plated fish in the documentary, whereas is more closely related to the modern lamprey. Astraspis was also featured in Animal Armageddon.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content from <color r="255" g="231" b="135">Wikipedia</color>Imago
+  </cell>
+ </text>
+</zoopedia_imagoastraaspis>
+</ZT2Strings>
